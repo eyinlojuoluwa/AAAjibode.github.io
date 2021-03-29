@@ -19,4 +19,21 @@ Currently, my research area is Software Engineering. I am hoping to work on the 
 - Computer Education
 - Educational Technology
 
-<a class="twitter-timeline" href="https://twitter.com/AjibodeAdekunle?ref_src=twsrc%5Etfw">Tweets by AjibodeAdekunle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## [CV](https://www.canva.com/design/DAEW3owe5nc/pDj1yjxTl6eyPby4Qc7zFw/view?utm_content=DAEW3owe5nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## Publications
+- [A. A. Ajibode, T. Shu and Z. Ding, "Evolving Suspiciousness Metrics From Hybrid Data Set for Boosting a
+Spectrum Based Fault Localization," in IEEE Access, vol. 8, pp. 198451-198467, 2020, doi: 10.1109/ACCESS.2020.3035413.](https://drive.google.com/file/d/1J4Tb-Bp5geYosHp9vILNBaJThIEekReX/view?usp=sharing)
+- Kabir Sulaiman Said, Liming Nie, Adekunle Akinjobi Ajibode, and Xueyi Zhou. 2020. GUI testing for mobile applications: objectives, approaches and challenges. In 12th Asia-Pacific Symposium on Internetware (Internetware’20), May 12–14, 2021, Singapore, Singapore. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3457913.3457931
+
+## Ongoing Research
+Combining multiple ranking metrics to support Fault Localization,  to be submitted to Journal of Information Science
+
+## Social Profiles
+- [Twitter](https://twitter.com/AjibodeAdekunle)
+- [Linkdln](https://www.linkedin.com/in/eyinlojuoluwa)
+- [Facebook](https://www.facebook.com/Eyinlojuoluwa)
+
+
+
