@@ -1,5 +1,6 @@
 # Adekunle A. Ajibode
 <p style="text-align:center;"><img src="Newpix.jpg" width="100" height="100"></p> 
+
 ## About me
 <div align="justify"> 
 I am a graduate student of the Department of Computer Science and Technology in the school of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou City, Zhejiang Province, China, under the supervision of Professor Shu Ting.
