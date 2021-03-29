@@ -1,3 +1,5 @@
+<marquee behavior="scroll" direction="left">DAILY MANNA: What have you achieved today???</marquee>
+
 # Adekunle A. Ajibode
 
 ## About me
