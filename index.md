@@ -19,3 +19,4 @@ Currently, my research area is Software Engineering. I am hoping to work on the 
 - Computer Education
 - Educational Technology
 
+<a class="twitter-timeline" href="https://twitter.com/AjibodeAdekunle?ref_src=twsrc%5Etfw">Tweets by AjibodeAdekunle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
